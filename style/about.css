@@ -1,0 +1,61 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 5px;
+    color: black;
+    background-color: white;
+}
+h2{
+    text-align: center;
+    margin: 30px auto;
+    color: plum;
+    font-size: 32px;
+    
+}
+.about-section {
+    padding: 10px;
+    background-color: wheat;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.me {
+    width: 85%;
+    margin: 20px auto;
+    text-align: center; 
+}
+
+.me img {
+    max-width: 85%; 
+    height: auto; 
+    border-radius: 8px; 
+}
+
+p{
+    text-align: center;
+    margin: 15px  auto;
+    font-size: 15px;
+    color: black;
+    background-color: orange;
+}
+.navbar {
+    background-color: blanchedalmond;
+    padding: 5px;
+    width: auto;
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 5px 15px;
+}
+
+.nav-links a {
+    color: black;
+    text-decoration: none;
+    align-items: center;
+}
