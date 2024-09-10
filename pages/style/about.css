@@ -42,6 +42,8 @@ p{
     background-color: blanchedalmond;
     padding: 5px;
     width: auto;
+    border-radius: 8px;
+    border:solid 3px;
 }
 .nav-links {
     display: flex;
