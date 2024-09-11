@@ -11,6 +11,12 @@ h1{
     color: plum;
     font-size: 32px;
 }
+h3{
+    text-align: center;
+    margin: 30px auto;
+    color: plum;
+    font-size: 32px;
+}
 .navbar {
     background-color:blanchedalmond;
     padding: 10px 20px;

@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 5px;
+    color: black;
+    background-color: white;
+}
+h4{
+    text-align: center;
+    margin: 30px auto;
+    color: plum;
+    font-size: 32px;
+    
+}
+.pract-section {
+    padding: 10px;
+    background-color: blanchedalmond;
+    margin: 20px;
+    border-radius: 8px;
+}
+.pr {
+    background-color: orange;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+}
+.navbar {
+    background-color: blanchedalmond;
+    padding: 5px;
+    width: auto;
+}
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    justify-content: center;
+}
+.link{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
